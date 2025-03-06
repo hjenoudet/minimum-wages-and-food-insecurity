@@ -1,0 +1,4 @@
+A basic list of required R packages would look like this (though the versions are up to you). 
+You can install them with `install.packages("<package_name>")` if you’re running locally, or manage them in whatever R environment setup you have:
+dplyr
+ggplot2
